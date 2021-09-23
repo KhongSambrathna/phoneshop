@@ -1,0 +1,154 @@
+body {
+    background-color: #f6f6f6;
+    font-family: sans-serif;
+}
+#news {
+    width: 1143px;
+    height: auto;
+    background-color: #f6f6f6;
+    margin: auto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+}
+.news-content {
+    width: 816px;
+    height: auto;
+    padding: 0px 50px;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 1px 1px #ccc;
+    float: left;
+}
+.popular-new {
+    width: 300px;
+    float: right;
+    background-color: #FFFFFF;
+}
+.popular-news {
+    width: 280px;
+    height: auto;
+    padding: 0px 10px;
+}
+.pop-new {
+    width: 280px;
+    height: 60px;
+    margin: 5px 0px;
+}
+.pop-new img {
+    width: 70px;
+    height: 60px;
+    float: left;
+    padding-right: 5px;
+}
+.pop-new h4 {
+    float: left;
+    font-size: 10pt;
+}
+.pop-new p {
+    font-size: 9pt;
+    line-height: 14px;
+}
+.public-detail-left {
+    float: left;
+}
+.public-detail-right {
+    float: right;
+}
+.public-detail {
+    color: #999;
+}
+.horizon {
+    border-top: 1px solid #999;
+    margin-top: 10px;
+}
+.description img {
+    width: 716px;
+    margin: 20px 0px;
+}
+.share-to-socialmedia a i {
+    color: #FFFFFF;
+    font-size: 20pt;
+    margin: 10px 0px 10px 7px;
+    background-color: #4267B2;
+    padding: 5px;
+    float: right;
+}
+.relate-box {
+    width: 100%;
+    position: relative;
+}
+.box-1 {
+    width: 222px;
+    height: 238.66px;
+    float: left;
+}
+.box-2 {
+    width: 222px;
+    height: 238.66px;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    left: 247px;
+    overflow: hidden;
+}
+
+.box-3 {
+    width: 222px;
+    height: 238.66px;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    left: 494px;
+}
+
+.box-4 {
+    width: 222px;
+    height: 238.66px;
+    float: left;
+    overflow: hidden;
+}
+
+.box-5 {
+    width: 222px;
+    height: 238.66px;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    left: 247px;
+}
+
+.box-6 {
+    width: 222px;
+    height: 238.66px;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    left: 494px;
+}
+.relate-box img {
+    width: 222px;
+}
+h4 {
+    margin: 0px;
+    padding: 0px;
+    color: #000000;
+}
+h4:hover {
+    color: #ba2133;
+}
+.relate-box p {
+    color: #999;
+    font-size: 10pt;
+}
+.pop-new a p {
+    color: #999;
+}
+.circle-list {
+    font-size: 16pt;
+    font-weight: 600;
+}
+.sub-circle-list {
+    font-size: 12pt;
+    font-weight: normal;
+}

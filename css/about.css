@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#aboutus {
+    width: 100%;
+    padding-top: 58px;
+    height: 150px;
+    background-color: #5b5b5b;
+}
+.about-us {
+    width: 1200px;
+    height: 150px;
+    margin: auto;
+}
+.about-us div {
+    font-family: sans-serif;
+    font-size: 35pt;
+    padding: 48px 0px;
+    color: #FFFFFF;
+}
+.whoweare {
+    width: 1200px;
+    height: 300px;
+    margin: auto;
+}
+.who-left {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding-top: 100px;
+    font-family: sans-serif;
+    font-size: 17pt;
+    font-weight: 600;
+}
+.who-right {
+    width: 1000px;
+    height: 200px;
+    padding-top: 100px;
+    float: left;
+    font-family: sans-serif;
+    line-height: 21pt;
+    font-weight: 500;
+    font-size: 17pt;    
+}
+.head {
+    font-size: 25pt;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.team-img {
+    width: 1200px;
+    margin: 60px auto;
+}
+.team-img-box {
+    width: 386px;
+    height: 500px;
+    float: left;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+.team-img-box img {
+    width: 386px;
+    height: 390px;
+}
+.team-img-box div {
+    font-family: sans-serif;
+    font-size: 20pt;
+    margin-top: 15px;
+    font-weight: 600;
+    
+    text-align: center;
+}

@@ -1,0 +1,131 @@
+body {
+    background-color: #f2f2f2;
+}
+#contact-us {
+    width: 100%;
+    height: 560px;
+    line-height: 1.6;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+#space-height {
+    height: 110px;
+    width: 100%;
+}
+.contact-center {
+    width: 1204px;
+    height: 504px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: #f2f2f2;;
+    position: relative;
+}
+.contact-left {
+    width: 600px;
+    height: 500px;
+    float: left;
+    position: absolute;
+}
+.contact-right {
+    width: 600px;
+    height: 500px;
+    float: left;
+    position: absolute;
+    left: 600px;
+}
+.content-of-left {
+    width: 560px;
+    height: 460px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    border-radius: 5px;
+    padding: 20px 0px 0px 20px;
+}
+.content-of-right {
+    width: 580px;
+    height: 480px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+
+/* Start Contact Infor */
+
+.contact-head {
+    font-size: 16pt;
+    font-weight: bold;
+}
+.follow-us-icon a i {
+    font-size: 27pt;
+    margin: 5px;
+}
+.fa-facebook-square {
+    color: #1877f2;
+}
+.fa-twitter-square {
+    color: rgba(29,161,242,1.00);
+}
+.fa-instagram {
+    background-color: linear-gradient(#833ab4, #fd1d1d, #fcb045);
+}
+.fa-youtube-square {
+    color: #FF0000;
+}
+.contact-content i {
+    display: block;
+    font-size: 20pt;
+    margin: 5px 0;
+}
+.contact-content div {
+    font-size: 15pt;
+    line-height: 1.7;
+}
+.contact-head-1 {
+    width: 40px;
+    height: 145px;
+    float: left;
+}
+.contact-head-2 {
+    width: 550px;
+    height: 145px;
+}
+#contact-form {
+    font-family: sans-serif;
+    position: absolute;
+    left: 30px;
+    width: 500px;
+    height: 460px;
+}
+.contact-form-1::placeholder {
+    padding-left: 5px;
+}
+.contact-form-1 [type=text], [type=email] {
+    width: 490px;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+    border: #ccc 1px solid;
+    padding-left: 10px;
+}
+.submit-box [type=submit] {
+    width: 100px;
+    height: 30px;
+    background-color:  #008ae6;
+    border-radius: 10px;
+    border: #008ae6 solid 1px;
+    outline: none;
+    color: #FFFFFF;
+}
+textarea {
+    width: 485px;
+    height: 80px;
+    resize: none;
+    outline: none;
+    border: #ccc 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+/* End Contact Infor */

@@ -1,0 +1,21 @@
+.banner {
+    background-image: url(../img/accessories.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1349px;
+    height: 450px;
+}
+.small-subheader {
+    font-family: sans-serif;
+    font-size: 15pt;
+    line-height: 30px;
+    color: rgb(49, 47, 47);
+}
+.line-height {
+    line-height: 50px;
+}
+.indent {
+    text-indent: 150px;
+}
